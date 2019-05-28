@@ -1,4 +1,4 @@
-# REN-template
+# Agenda Diary App
 React, Node.js, Express.js, PostgreSQL template for full stack app
 
 # Instructions
